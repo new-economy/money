@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    聪明的钱
+                    测试画面
                 </div>
 
                 <div class="links">
