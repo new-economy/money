@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    测试画面
+                    测试自动部署功能
                 </div>
 
                 <div class="links">
